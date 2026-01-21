@@ -28,6 +28,13 @@ A frantic 60-second time-attack puzzle.
 *   Geometric neon shapes instead of sprites.
 *   Chord-based audio feedback for combos.
 
+### 5. Neon Snake (`Modern Snake.html`)
+The classic growing serpent game.
+*   Smooth grid-based movement with input buffering.
+*   Dynamic speed ramping as you eat.
+*   Screen shake and "glitch" effects on impact.
+
+
 ## 🛠️ Technology Stack
 
 *   **Core**: HTML5 Canvas + Vanilla JavaScript
